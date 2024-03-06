@@ -1,0 +1,37 @@
+/* styles.css */
+.accordion {
+  /* border: 1px solid #ccc; */
+  border-radius: 4px;
+  padding-right: 10px;
+  overflow: hidden;
+}
+
+
+
+.accordion-item.active .accordion-content {
+  display: block;
+}
+
+.accordion-title {
+  /* background-color: #f1f1f1; */
+  /* padding: 10px; */
+  cursor: pointer;
+}
+
+.accordion-content {
+  display: none;
+  padding: 5px;
+}
+
+.multi-select-dropdown {
+  margin-top: 10px;
+}
+
+.option {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.option input[type="checkbox"] {
+  margin-right: 5px;
+}

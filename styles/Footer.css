@@ -1,0 +1,22 @@
+.hero-footer input {
+    padding: 7px;
+    width: 250px;
+   }
+   .hero-footer .be_the_first_pag{
+       margin-top: 30px;
+   }
+   .hero-footer button{
+       width: 150px;
+       margin-top: 30px;
+       margin-left: 5px;
+       padding:7px;
+       background-color: transparent;
+       color: #fff;
+       height: 35px;
+       border-radius: 5px;
+       border: 1px solid gray;
+   }
+   .hero-footer a{
+       margin-top: 10px;
+   }
+   
